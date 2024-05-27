@@ -11,13 +11,7 @@ Criado pelo Google e hoje OpenSource é a ferramenta de orquestrão de container
 
 ## Arquitetura Básica do K8S
 
-### Pod
-
-É a menor unidade de computação publicável em um computador que podemos criar e gerenciar, o **K8S** não faz acesso direto aos containers e sim nos Pods, um pod é uma instância unica de uma app.
-
-<p align="left">
-    <img src="images/pods.png" width="300">
-</p>
+- [Pod](./pod/README.md)
 
 ### Node
 
